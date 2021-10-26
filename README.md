@@ -10,8 +10,8 @@
 - Runs on the current Fordham Autograder system.
 - Includes .in and .correct files, which emulate input files(.in) and output matching(.correc)
 
-##.in and .correct files and its feature
+## .in and .correct files and its feature
 
-##Unit testing code and its outputs
+## Unit testing code and its outputs
 `$ npm install marked`
 
