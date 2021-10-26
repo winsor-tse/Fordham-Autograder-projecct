@@ -11,7 +11,7 @@
 - Includes .in and .correct files, which emulate input files(.in) and output matching(.correc)
 
 ## .in and .correct files and its feature
-  [.in file for palindrome](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/rationallab/)
+  [.in file for palindrome](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/palindrone/palindronetest1.in)
   > A man, a plan, a canal, Panama.
   > Be at a time I emit a beat
   > Racecar
