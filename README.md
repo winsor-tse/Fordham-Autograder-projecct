@@ -11,7 +11,7 @@
 - Includes .in and .correct files, which emulate input files(.in) and output matching(.correc)
 
 ## .in and .correct files and its feature
-  ### .in files
+  ### eaxmple .in files
   [.in file for palindrome](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/palindrone/palindronetest1.in)
   > A man, a plan, a canal, Panama.
   > Be at a time I emit a beat
@@ -22,11 +22,13 @@
   
   The .in file is used to test the functionality of the system. It serves as the input of a user and introduces a better way for professors to implement and run test cases.
   
-  ### .correct files
+  ### example .correct files
   
   
 ## Unit testing code and its outputs
   ###Sample error or syntax error
+  
+  ###Sample code for error
   
 `$ npm install marked`
 
