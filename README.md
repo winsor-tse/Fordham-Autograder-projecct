@@ -10,16 +10,8 @@
 - Runs on the current Fordham Autograder system.
 - Includes .in and .correct files, which emulate input files(.in) and output matching(.correc)
 
-##Code Blocks (multi-language) & highlighting
+##.in and .correct files and its feature
 
-###Inline code
-
+##Unit testing code and its outputs
 `$ npm install marked`
 
-
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
