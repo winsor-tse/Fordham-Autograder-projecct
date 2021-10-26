@@ -1,6 +1,6 @@
 # Fordham-Autograder-projecct
 
-### Features
+## Features
 
 - Data structure Labs, with corrected and intended error code for the system.
 - C++ code for the palindrome and the labrational code.
@@ -10,11 +10,6 @@
 
 # Editor.md
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 #H1 header
 ##H2 header
