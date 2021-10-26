@@ -12,12 +12,12 @@
 
 ## .in and .correct files and its feature
   [.in file for palindrome](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/rationallab/Labrational_2.cpp)
-  'A man, a plan, a canal, Panama.'
-  'Be at a time I emit a beat'
-  'Racecar'
-  'A lad named E. Mandala'
-  'A Toyota's a Toyota'
-  'Race and tell a dancer'
+  > A man, a plan, a canal, Panama.
+  > Be at a time I emit a beat
+  > Racecar'
+  > A lad named E. Mandala
+  > A Toyota's a Toyota
+  > Race and tell a dancer
   
 ## Unit testing code and its outputs
 `$ npm install marked`
