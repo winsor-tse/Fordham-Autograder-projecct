@@ -11,7 +11,13 @@
 - Includes .in and .correct files, which emulate input files(.in) and output matching(.correc)
 
 ## .in and .correct files and its feature
-
-## Unit testing code and its outputs
+  [.in file for palindrome](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/rationallab/Labrational_2.cpp)
+  'A man, a plan, a canal, Panama.
+  Be at a time I emit a beat
+  Racecar
+  A lad named E. Mandala
+  A Toyota's a Toyota
+  Race and tell a dancer
+## Unit testing code and its outputs'
 `$ npm install marked`
 
