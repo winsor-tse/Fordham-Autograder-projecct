@@ -19,7 +19,9 @@
   > A lad named E. Mandala
   > A Toyota's a Toyota
   > Race and tell a dancer
+  
   The .in file is used to test the functionality of the system. It serves as the input of a user and introduces a better way for professors to implement and run test cases.
+  
   ### .correct files
   
   
