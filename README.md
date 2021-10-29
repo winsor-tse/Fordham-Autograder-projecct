@@ -28,10 +28,11 @@
   Matches output of the code to the text.
   
 ## Unit testing code and its outputs
-  ###Sample error or syntax error
+  ### Sample error or syntax error
   [Sample error for system](https://github.com/winsor-tse/Fordham-Autograder-projecct/blob/main/rationallab/error%201.PNG)
   This error provides many level of feedback to either the professor or the student
   Information can be hidden or toggled using the autograder system.
   Many errors can occur, but with this particular error, the professor can deduct certain amounts of points based on the error.
+  Intentionallay code errors that can test the system.
 
 
